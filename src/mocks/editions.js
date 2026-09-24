@@ -1,0 +1,1 @@
+export const editions=[{id:1842,number:'N° 1.842',date:'24 de octubre de 2026',title:'La semana que transforma al Oeste',description:'La edición central con las noticias y voces de nuestra comunidad.',cover:'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=700&q=85'}];

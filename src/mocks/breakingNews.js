@@ -1,0 +1,1 @@
+export const breakingNews=['Obras de infraestructura avanzan en Av. Vergara y Jauretche','Básquet: Municipalidad de Hurlingham clasificó al Final Four metropolitano','Anuncian nuevo centro de salud y guardia pediátrica en Villa Tesei','Feria del Libro y Cultura convoca a más de 30 autores locales'];

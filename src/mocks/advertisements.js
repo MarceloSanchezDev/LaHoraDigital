@@ -1,0 +1,1 @@
+export const sponsor={label:'Publicidad',sponsor:'Banco Provincia',campaign:'Línea Pyme Oeste',description:'Créditos especiales a tasa bonificada para comercios y talleres de Hurlingham, Villa Tesei y Morris.',cta:'Solicitar asesoramiento',icon:'account_balance'};
