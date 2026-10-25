@@ -1,3 +1,4 @@
-import { Link } from 'react-router-dom';
+import {Link,useLocation} from 'react-router-dom';
+import ResponsiveImage from '../common/ResponsiveImage';
 import styles from './NewsCard.module.css';
-export default function NewsCard({article}){return <article className={styles.card}><Link to={`/noticias/${article.slug}`}><div className={styles.image}><img src={article.image} alt=""/><span>{article.category}</span></div><div className={styles.body}><small>{article.date} · {article.location}</small><h3>{article.title}</h3><p>{article.excerpt}</p><div className={styles.read}>Leer crónica <span>→</span></div></div></Link></article>}
+export default function NewsCard({article}){const location=useLocation();return <article className={styles.card}><Link to={`/noticias/${article.slug}`} state={{from:location.pathname+location.search}}><div className={styles.image}><ResponsiveImage key={article.image} src={article.image} alt=""/><span>{article.category}</span></div><div className={styles.body}><small>{article.publishedAt||'Archivo de La Hora'}{article.readingMinutes?` · ${article.readingMinutes} min de lectura`:''}</small><h3>{article.title}</h3><p>{article.excerpt||'Consultá el documento original de esta publicación.'}</p><div className={styles.read}>Leer publicación <span>→</span></div></div></Link></article>}

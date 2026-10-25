@@ -1,0 +1,6 @@
+[
+  {"slug":"actualidad","name":"Actualidad","categories":["municipales","provinciales","nacional","universidades","licitaciones"]},
+  {"slug":"cultura","name":"Cultura e ideas","categories":["cine","artistasactivos","filosofia","cultura","culturarock"]},
+  {"slug":"comunidad","name":"Comunidad","categories":["naturaleza","scouts","noticiaslocales","genero","mujeresdestacadas","diversidad","crucigramas"]},
+  {"slug":"deportes","name":"Deportes","categories":["deportes"]}
+]

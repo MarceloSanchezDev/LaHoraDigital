@@ -1,0 +1,413 @@
+{
+  "source": "https://lahoradehurlingham.com.ar/",
+  "capturedAt": "2026-10-21T20:33:10.554Z",
+  "categories": [
+    {
+      "slug": "municipales",
+      "name": "Municipales",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/municipales.html",
+      "description": "",
+      "count": 3
+    },
+    {
+      "slug": "provinciales",
+      "name": "Provincia de Buenos Aires",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/provinciales.html",
+      "description": "",
+      "count": 3
+    },
+    {
+      "slug": "nacional",
+      "name": "Nacionales y regionales",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/nacional.html",
+      "description": "",
+      "count": 3
+    },
+    {
+      "slug": "universidades",
+      "name": "Universidades",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/universidades.html",
+      "description": "Espacio de contenido Universitario",
+      "count": 13
+    },
+    {
+      "slug": "licitaciones",
+      "name": "Convocatorias y licitaciones",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/licitaciones.html",
+      "description": "",
+      "count": 8
+    },
+    {
+      "slug": "cine",
+      "name": "Cine y streaming",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/cine.html",
+      "description": "Graciela Muñoz nos brinda su mirada cinematográfica",
+      "count": 129
+    },
+    {
+      "slug": "artistasactivos",
+      "name": "Artistas activos",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/artistasactivos.html",
+      "description": "Un espacio de arte propuesto por Andrea Doglia",
+      "count": 104
+    },
+    {
+      "slug": "filosofia",
+      "name": "Filosofía en construcción",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/filosofia.html",
+      "description": "Un espacio del Lic. Lucas Zenz que nos ayuda a pensar",
+      "count": 125
+    },
+    {
+      "slug": "naturaleza",
+      "name": "Naturaleza",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/naturaleza.html",
+      "description": "",
+      "count": 152
+    },
+    {
+      "slug": "cultura",
+      "name": "Cultura",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/cultura.html",
+      "description": "",
+      "count": 72
+    },
+    {
+      "slug": "culturarock",
+      "name": "Cultura rock",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/culturarock.html",
+      "description": "",
+      "count": 46
+    },
+    {
+      "slug": "scouts",
+      "name": "Scouts",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/scouts.html",
+      "description": "",
+      "count": 13
+    },
+    {
+      "slug": "noticiaslocales",
+      "name": "Noticias locales",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/noticiaslocales.html",
+      "description": "",
+      "count": 22
+    },
+    {
+      "slug": "genero",
+      "name": "Foro de Géneros",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/genero.html",
+      "description": "Notas del Foro de Géneros de Hurlingham",
+      "count": 85
+    },
+    {
+      "slug": "mujeresdestacadas",
+      "name": "Mujeres destacadas",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/mujeresdestacadas.html",
+      "description": "Recopilación a cargo de Merlina Castro",
+      "count": 92
+    },
+    {
+      "slug": "diversidad",
+      "name": "Género en amplitud",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/diversidad.html",
+      "description": "temas seleccionados por Merlina Castro",
+      "count": 50
+    },
+    {
+      "slug": "deportes",
+      "name": "Deportes",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/deportes.html",
+      "description": "",
+      "count": 34
+    },
+    {
+      "slug": "crucigramas",
+      "name": "Crucigramas",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/crucigramas.html",
+      "description": "",
+      "count": 5
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/zWpw1--XZsw?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+      "title": "EL SCOUTISMMO DE HURLINGHAM PARTICIPA DE UN RALLY NACIONAL",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/"
+    },
+    {
+      "url": "https://www.youtube.com/embed/Smz5b6_uUQY?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+      "title": "HABLAMOS CON LAUTARO PRADO, EL MUEVE LA AGUJA DEL BOX LOCAL",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/"
+    },
+    {
+      "url": "https://www.youtube.com/embed/xEn60uBhsGA?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+      "title": "HURLINGHAM BOXING: JUAN SEGUNDO GONZALEZ CAMPEÓN TITULO AMBAPA",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/"
+    },
+    {
+      "url": "https://www.youtube.com/embed/lQkOncEUk3g?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+      "title": "HURLINGHAM BOXING: JAVIER FARIAS CAMPEÓN TITULO AMBAPA",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/"
+    },
+    {
+      "url": "https://www.youtube.com/embed/dV3WpVwP3g4?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+      "title": "RESUMEN DEPORTIVO DIARIO",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/"
+    },
+    {
+      "url": "https://www.youtube.com/embed/7P7Pf0jo51o?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+      "title": "CAYACANAYA",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/"
+    }
+  ],
+  "editions": [
+    {
+      "url": "https://www.calameo.com/read/006120743f4c628082451",
+      "cover": "/media/2efb7f492cc666db77231e80.jpg",
+      "title": "LA VERSION DIGITAL SEPTIEMBRE 2026",
+      "sourceUrl": "https://lahoradehurlingham.com.ar/"
+    }
+  ],
+  "socials": [
+    {
+      "url": "https://www.facebook.com/lahoracentral",
+      "name": "facebook.com"
+    },
+    {
+      "url": "https://www.instagram.com/lahoradehurlingham/",
+      "name": "instagram.com"
+    },
+    {
+      "url": "https://www.youtube.com/c/LaHoradeHurlingham/featured",
+      "name": "youtube.com"
+    },
+    {
+      "url": "https://www.twitch.tv/lahoravivo",
+      "name": "twitch.tv"
+    }
+  ],
+  "report": {
+    "skipped": [
+      {
+        "sourceUrl": "https://lahoradehurlingham.com.ar/cine.html",
+        "index": 0,
+        "reason": "Presentación de la sección, conservada como descripción"
+      },
+      {
+        "sourceUrl": "https://lahoradehurlingham.com.ar/diversidad.html",
+        "index": 28,
+        "reason": "Bloque idéntico dentro de la sección"
+      }
+    ],
+    "totalArticles": 959,
+    "totalCategories": 18,
+    "notes": "Textos recuperados de tarjetas Mobirise. Orden original dentro de cada sección; no representa fechas de publicación. Fechas y autores desconocidos se conservan nulos. Títulos ausentes se señalan como derivados."
+  },
+  "homeArticles": [
+    {
+      "id": 959,
+      "slug": "trabajo-terminado-selci-anuncio-la-conclusion-de-la-repavimentacion-de-vergara-una-obra-clave-para-h-dc1a20bbd5",
+      "title": "Trabajo terminado: Selci anunció la conclusión de la repavimentación de Vergara, una obra clave para Hurlingham",
+      "titleDerived": false,
+      "category": "Municipales",
+      "categorySlug": "municipales",
+      "excerpt": "Es la primera vez en 40 años que se hace una obra así en la avenida principal: “Es una de las inversiones viales más importantes de Hurlingham”. Con una intervención de 27.000 m² de asfalto especial para cargas pesadas, …",
+      "image": "/media/f97721cb8179977e92d3c077.png",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/municipales.html#features3-ds",
+      "sourceIndex": 0,
+      "sourceHash": "dc1a20bbd570a8ca8336f9836f33e541fd0f55266a3f59ee4e2b765c59dec0ea",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/captura-de-pantalla-2026-09-30.png",
+      "readingMinutes": 2
+    },
+    {
+      "id": 956,
+      "slug": "el-gobernador-bonaerense-encabezo-un-encuentro-con-camaras-clusteres-y-pymes-que-abastecen-a-los-sec-e14f3918de",
+      "title": "El Gobernador bonaerense encabezó un encuentro con cámaras, clústeres y pymes que abastecen a los sectores de petróleo, gas, electricidad y minería. En la actividad se abrió la inscripción para pymes a la segunda Ronda de Negocios de Energía y Minería, que se realizará el 1° de diciembre en La Plata.",
+      "titleDerived": false,
+      "category": "Provincia de Buenos Aires",
+      "categorySlug": "provinciales",
+      "excerpt": "El Gobernador Axel Kicillof encabezó este miércoles en el Salón Dorado de la Casa de Gobierno de la Provincia un encuentro con representantes de cámaras, clústeres y pymes bonaerenses proveedoras de los sectores energéti…",
+      "image": "/media/33d68b5e69ce435cb2a768f3.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/provinciales.html#gallery3-hc",
+      "sourceIndex": 0,
+      "sourceHash": "e14f3918de6312f072de8ba4e13bd37bb4f265b02ed202d72fcd49d6f77a7db9",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/1-21.jpeg",
+      "readingMinutes": 4
+    },
+    {
+      "id": 953,
+      "slug": "las-ventas-por-el-dia-de-la-madre-2026-bajaron-1-4-interanual-854133c42f",
+      "title": "Las ventas por el Día de la Madre 2026 bajaron 1,4% interanual",
+      "titleDerived": false,
+      "category": "Nacionales y regionales",
+      "categorySlug": "nacional",
+      "excerpt": "Las ventas en los comercios minoristas pymes durante el Día de la Madre registraron un descenso del 1,4% frente al mismo período del año anterior, medidas a precios constantes. Con este resultado se acumulan cinco caídas…",
+      "image": "/media/29468419e46e1f9594a98d01.png",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/nacional.html#features3-q",
+      "sourceIndex": 0,
+      "sourceHash": "854133c42f925e042a0370b1413827cb8bfb775821af76b1b00d6857c20f09e0",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/unnamed-5.png",
+      "readingMinutes": 2
+    },
+    {
+      "id": 929,
+      "slug": "son-necesarias-las-revoluciones-556940da9f",
+      "title": "¿Son necesarias las revoluciones?",
+      "titleDerived": false,
+      "category": "Cine y streaming",
+      "categorySlug": "cine",
+      "excerpt": "En Revolución, la película argentina sobre el cruce de los Andes del Ejército de San Martín, se dice que las guerras son nefastas, que lo peor de la humanidad se despliega en ese ámbito infernal. Pero también se plantea …",
+      "image": "/media/6bb261534c90191e7048f437.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/cine.html#features3-ln",
+      "sourceIndex": 1,
+      "sourceHash": "556940da9f715908d78052dde82e9d372d75342f8ec2c516014a5298adf5f0c3",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/revcine.jpg",
+      "readingMinutes": 3
+    },
+    {
+      "id": 800,
+      "slug": "farmear-aura-la-version-capitalista-de-una-respuesta-antirracista-01a3289a56",
+      "title": "Farmear aura: la versión capitalista de una respuesta antirracista",
+      "titleDerived": false,
+      "category": "Artistas activos",
+      "categorySlug": "artistasactivos",
+      "excerpt": "Ilustración: Minoty Torres\n\nFarmear aura es un acto performático, como siempre los hubo, y los seguirá habiendo. Consiste en dos personas rivalizando y realizando una intervención artística callejera en un círculo de gen…",
+      "image": "/media/9a526d056290e7cad37bfb62.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/artistasactivos.html#features3-lk",
+      "sourceIndex": 0,
+      "sourceHash": "01a3289a56e0be910c75b2a49e4f06475a18db4387f2c8ab7ee567a1e90b5b5e",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/whatsapp-image-2026-09-15-at-18.32.14.jpeg",
+      "readingMinutes": 3
+    },
+    {
+      "id": 696,
+      "slug": "judith-butler-y-la-teoria-queer-d0f9deb4b2",
+      "title": "Judith Butler y la teoría queer",
+      "titleDerived": false,
+      "category": "Filosofía en construcción",
+      "categorySlug": "filosofia",
+      "excerpt": "¿Existe algo estrictamente biológico cuando hablamos de la sexualidad? ¿Qué define el ser hombre o el ser mujer? ¿Un órgano, una hormona, un cromosoma? ¿Hay una frontera natural que sirva como límite claro? ¿Y si no la h…",
+      "image": "/media/e50fca88ef6e0524761604bc.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/filosofia.html#features3-lj",
+      "sourceIndex": 0,
+      "sourceHash": "d0f9deb4b2a97e15ead2780bbe4d4441cf576a76b1419d102902e612119d0a89",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/images-2.jpg",
+      "readingMinutes": 3
+    },
+    {
+      "id": 571,
+      "slug": "caza-fotografica-85e85f2900",
+      "title": "Caza fotográfica",
+      "titleDerived": false,
+      "category": "Naturaleza",
+      "categorySlug": "naturaleza",
+      "excerpt": "Querido lector/a de la hora, el mes pasado tuve la fortuna de viajar a un lugar soñado para cualquier naturalista y fue al Pantanal, ubicado en Mato Grosso (Brasil) el lugar donde sí o sí ves al felino más grande de Suda…",
+      "image": "/media/36c4533099f4758cf2c1f6fc.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/naturaleza.html#features3-jt",
+      "sourceIndex": 0,
+      "sourceHash": "85e85f2900881be2be544cdad58e64429d82c2f9aebd087f7198af1ddc6519cc",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/jaguyarete2.jpeg",
+      "readingMinutes": 2
+    },
+    {
+      "id": 301,
+      "slug": "y-si-el-calendario-scout-estan-vertiginoso-que-a-veces-no-llegamos-a-contarles-todo-lo-que-sucede-en-1e9e25bb77",
+      "title": "Y si, el calendario scout están vertiginoso que a veces no llegamos a contarles todo lo que sucede en nuestro Distrito!",
+      "titleDerived": false,
+      "category": "Scouts",
+      "categorySlug": "scouts",
+      "excerpt": "Gustavo Markevich \n\n*El 5 de septiembre se celebró el Día del Scout en Argentina y en relación con eso los Grupos hicieron diferentes actividades invitando a las familias a vivir la experiencia de ser scout. Hubo Grupos …",
+      "image": "/media/ef7372fe2540bf20e4cb3bc7.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/scouts.html#features3-js",
+      "sourceIndex": 0,
+      "sourceHash": "1e9e25bb7701eb706c9684079c0e4b07d58c2807938924023a3caf284b87f445",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/scoutismo1-1.jpeg",
+      "readingMinutes": 2
+    },
+    {
+      "id": 288,
+      "slug": "las-aguas-vuelven-a-abrirse-4ta-edicion-de-pequenos-nadadores-a6d0b94ff7",
+      "title": "Las aguas vuelven a abrirse: 4ta edición de Pequeños Nadadores",
+      "titleDerived": false,
+      "category": "Noticias locales",
+      "categorySlug": "noticiaslocales",
+      "excerpt": "Volvió el chapoteo, volvieron las risas bajo el agua. \nCoparqui dio inicio a la cuarta edición de Pequeños Nadadores, ese sueño que beca a niñas y niños de 7 a 13 años para regalarles algo que nadie les puede quitar: el …",
+      "image": "/media/2fdaa290332472f855650be6.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/noticiaslocales.html#features3-ik",
+      "sourceIndex": 0,
+      "sourceHash": "a6d0b94ff7cf1651400c63679d0810a76303bb29fcd041ff39baced56a6b38f9",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/whatsapp-image-2026-07-07-at-10.36.57-1.jpeg",
+      "readingMinutes": 1
+    },
+    {
+      "id": 39,
+      "slug": "sudamericano-sub-20-futsal-femenino-priscila-gonzalez-vecina-de-hurlingham-b4d89836d2",
+      "title": "Sudamericano Sub 20 - Futsal Femenino: Priscila Gonzalez, vecina de Hurlingham",
+      "titleDerived": false,
+      "category": "Deportes",
+      "categorySlug": "deportes",
+      "excerpt": "A principio de septiembre, Priscila Gonzalez, vecina de Hurlingham y jugadora de All Boys fue convocada para entrenar en el Predio Andres Lionel Messi. Donde, ella junto a sus compañeras, estuvieron preparándose para dis…",
+      "image": "/media/ef1eea86d8042ef24e61820a.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/deportes.html#features3-j4",
+      "sourceIndex": 0,
+      "sourceHash": "b4d89836d2bdccc48504f105097115408703e9ca8a4dc7768155571226bc2bca",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/whatsapp-image-2026-09-17-at-18.17.52.jpeg",
+      "readingMinutes": 2
+    },
+    {
+      "id": 38,
+      "slug": "koguryo-brillo-en-el-encuentro-deportivo-amistad-2026-fa2d8e3b9f",
+      "title": "Koguryo brilló en el Encuentro Deportivo Amistad 2026",
+      "titleDerived": false,
+      "category": "Deportes",
+      "categorySlug": "deportes",
+      "excerpt": "La Asociación de Taekwon-Do Koguryo tuvo una destacada actuación en la competencia realizada en el Club Imperio Juniors. Obtuvo el primer puesto en Top Team, fue la delegación más numerosa y consiguió tres campeonatos ab…",
+      "image": "/media/2d0fba9b0b48a999c63c2dbc.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/deportes.html#features3-j4",
+      "sourceIndex": 1,
+      "sourceHash": "fa2d8e3b9fd3e30deb58304bd08e72b7f6d0fbe7ef1c0ee43135d489dde496ae",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/kogu2.jpeg",
+      "readingMinutes": 2
+    },
+    {
+      "id": 37,
+      "slug": "record-de-combates-ec71140b23",
+      "title": "Record de Combates !!",
+      "titleDerived": false,
+      "category": "Deportes",
+      "categorySlug": "deportes",
+      "excerpt": "El pasado sábado 12 de Septiembre en el Gimnasio Hurlingham Boxing hubo un total de 140 boxeadores y boxeadoras ! \nEl evento contó con 58 exhibiciones y 12 combates amateurs fiscalizados por la Federación Argentina de Bo…",
+      "image": "/media/5dc58e3facd3e5d1aa319b11.jpg",
+      "author": null,
+      "publishedAt": null,
+      "sourceUrl": "https://lahoradehurlingham.com.ar/deportes.html#features3-j4",
+      "sourceIndex": 2,
+      "sourceHash": "ec71140b233bf5d4b6276028a6acb53d42653afe5a5166c3aeb98d721231d578",
+      "sourceImage": "https://lahoradehurlingham.com.ar/assets/images/whatsapp-image-2026-09-17-at-16.20.20.jpeg",
+      "readingMinutes": 2
+    }
+  ]
+}

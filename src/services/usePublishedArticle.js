@@ -1,0 +1,3 @@
+import {useEffect,useState} from 'react';
+import {loadArchivedArticle} from './archiveService';
+export default function usePublishedArticle(slug){const [attempt,setAttempt]=useState(0),[state,setState]=useState({slug,loading:true});useEffect(()=>{let active=true;setState({slug,loading:true});loadArchivedArticle(slug).then(article=>{if(active)setState({slug,loading:false,article,notFound:!article});}).catch(()=>{if(active)setState({slug,loading:false,error:true});});return()=>{active=false;};},[slug,attempt]);return {...(state.slug===slug?state:{slug,loading:true}),retry:()=>setAttempt(n=>n+1)};}

@@ -1,8 +1,11 @@
 @import url('./variables.css');
 @import url('./reset.css');
 @import url('./typography.css');
+@import url('./enhancements.css');
 body{background:var(--color-background);color:var(--color-text)}
+.demo-notice{padding:12px 24px;background:#fff1dd;color:#613800;text-align:center;font-size:14px;border-bottom:1px solid #d9bb8a}.skip-link{position:absolute;left:16px;top:-100px;z-index:100;background:#fff;padding:12px}.skip-link:focus{top:12px}:focus-visible{outline:3px solid var(--color-secondary);outline-offset:3px}button:disabled{cursor:not-allowed}
 .container{width:min(var(--content-width),calc(100% - 48px));margin-inline:auto}
 .eyebrow{color:var(--color-secondary);font:700 11px/16px var(--font-ui);letter-spacing:.09em;text-transform:uppercase}
 .material-symbols-outlined{font-variation-settings:'FILL' 0,'wght' 500,'GRAD' 0,'opsz' 24;vertical-align:middle}
 @media(max-width:600px){.container{width:min(var(--content-width),calc(100% - 32px))}}
+.editorial-shell{display:grid;grid-template-columns:minmax(0,1fr) 350px;max-width:1600px;margin-inline:auto}.editorial-shell>main{min-width:0}@media(max-width:1050px){.editorial-shell{grid-template-columns:minmax(0,1fr)}.editorial-shell>aside{grid-row:1}}

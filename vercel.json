@@ -1,0 +1,130 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/**/*.js": {
+      "maxDuration": 15
+    }
+  },
+  "redirects": [
+    {
+      "source": "/municipales.html",
+      "destination": "/secciones/municipales",
+      "permanent": true
+    },
+    {
+      "source": "/provinciales.html",
+      "destination": "/secciones/provinciales",
+      "permanent": true
+    },
+    {
+      "source": "/nacional.html",
+      "destination": "/secciones/nacional",
+      "permanent": true
+    },
+    {
+      "source": "/universidades.html",
+      "destination": "/secciones/universidades",
+      "permanent": true
+    },
+    {
+      "source": "/licitaciones.html",
+      "destination": "/secciones/licitaciones",
+      "permanent": true
+    },
+    {
+      "source": "/cine.html",
+      "destination": "/secciones/cine",
+      "permanent": true
+    },
+    {
+      "source": "/artistasactivos.html",
+      "destination": "/secciones/artistasactivos",
+      "permanent": true
+    },
+    {
+      "source": "/filosofia.html",
+      "destination": "/secciones/filosofia",
+      "permanent": true
+    },
+    {
+      "source": "/naturaleza.html",
+      "destination": "/secciones/naturaleza",
+      "permanent": true
+    },
+    {
+      "source": "/cultura.html",
+      "destination": "/secciones/cultura",
+      "permanent": true
+    },
+    {
+      "source": "/culturarock.html",
+      "destination": "/secciones/culturarock",
+      "permanent": true
+    },
+    {
+      "source": "/scouts.html",
+      "destination": "/secciones/scouts",
+      "permanent": true
+    },
+    {
+      "source": "/noticiaslocales.html",
+      "destination": "/secciones/noticiaslocales",
+      "permanent": true
+    },
+    {
+      "source": "/genero.html",
+      "destination": "/secciones/genero",
+      "permanent": true
+    },
+    {
+      "source": "/mujeresdestacadas.html",
+      "destination": "/secciones/mujeresdestacadas",
+      "permanent": true
+    },
+    {
+      "source": "/diversidad.html",
+      "destination": "/secciones/diversidad",
+      "permanent": true
+    },
+    {
+      "source": "/deportes.html",
+      "destination": "/secciones/deportes",
+      "permanent": true
+    },
+    {
+      "source": "/crucigramas.html",
+      "destination": "/secciones/crucigramas",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/noticias/:path*",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/secciones/:path*",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/videos",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/ediciones",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/contacto",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/deportes",
+      "destination": "/index.html"
+    }
+  ]
+}

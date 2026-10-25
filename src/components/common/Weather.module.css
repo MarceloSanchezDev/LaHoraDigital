@@ -1,0 +1,1 @@
+.weather{display:grid;gap:6px;line-height:1.5}.weather>span:first-child{font-size:13px;color:var(--color-text-secondary)}.weather strong{font:700 48px/1.2 var(--font-ui);color:var(--color-secondary)}.weather a{font-size:11px;text-decoration:underline;margin-top:8px}.detail{font-size:13px;color:var(--color-text-secondary)}

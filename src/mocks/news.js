@@ -8,4 +8,4 @@ export const articles=[
 {id:5,slug:'muestra-fotografica-marechal',title:'Inauguran la muestra fotográfica histórica en el Centro Cultural Leopoldo Marechal',excerpt:'Más de 120 archivos visuales rescatados de las primeras familias fundadoras.',category:'Cultura',author:'Carolina Gómez',location:'Hurlingham',publishedAt:'23 Oct 2026',date:'Hace 3 h',readingTime:4,image:image('photo-1561214115-f2f134cc4912')},
 {id:6,slug:'creditos-comercios-oeste',title:'Nuevas líneas de crédito para comercios y talleres de Zona Oeste',excerpt:'Una iniciativa ofrece tasas bonificadas para inversiones productivas y renovación de equipamiento.',category:'Economía Local',author:'Tomás Rivas',location:'William Morris',publishedAt:'22 Oct 2026',date:'Ayer',readingTime:3,image:image('photo-1556761175-b413da4baf72')}
 ];
-export const secondaryNews=[articles[4],articles[3],{...articles[2],category:'Clima',title:'Alerta meteorológico por tormentas fuertes para la zona oeste del Conurbano',excerpt:'Defensa Civil recomienda extremar precauciones ante ráfagas y caída de granizo.'}];
+export const secondaryNews=[articles[4],articles[3],articles[2]];
