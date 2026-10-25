@@ -103,6 +103,10 @@
   ],
   "rewrites": [
     {
+      "source": "/api/weather/maps/:layer/:z/:x/:tile",
+      "destination": "/api/weather-maps?layer=:layer&z=:z&x=:x&tile=:tile"
+    },
+    {
       "source": "/noticias/:path*",
       "destination": "/index.html"
     },
