@@ -4,11 +4,6 @@
   "installCommand": "npm ci",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "functions": {
-    "api/**/*.js": {
-      "maxDuration": 15
-    }
-  },
   "redirects": [
     {
       "source": "/municipales.html",
