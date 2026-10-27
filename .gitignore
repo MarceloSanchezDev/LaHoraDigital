@@ -6,3 +6,7 @@ dist/
 .vercel/
 backups/
 .runtime/
+
+playwright-report/
+
+test-results/

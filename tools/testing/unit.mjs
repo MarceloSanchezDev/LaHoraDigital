@@ -1,0 +1,10 @@
+import {readdirSync,existsSync} from 'node:fs';
+import {spawnSync} from 'node:child_process';
+import {join} from 'node:path';
+import {workspace} from './test-paths.mjs';
+const groups={diario:['articleQuery','editorialTools','editorialToolsPublic','weather','weatherMaps','editorial'],api:['appSeparation','publicArticle','publicCache','publicContract','assetStorage','vercelApps','testSafety'],editorial:['supabaseAuth','uploadTicket','localDatabaseConfig']};
+const group=process.argv[2];if(group&&!groups[group])throw Error('Proyecto de pruebas inválido.');
+let files=readdirSync(join(workspace,'tests')).filter(n=>n.endsWith('.test.js')&&(!group||groups[group].includes(n.replace('.test.js','')))).map(n=>join(workspace,'tests',n));
+if(!group&&existsSync(join(workspace,'tools/site-export/extract.test.mjs')))files.push(join(workspace,'tools/site-export/extract.test.mjs'));
+if(!files.length)throw Error('No se encontraron pruebas.');
+const r=spawnSync(process.execPath,['--test',...files],{stdio:'inherit',windowsHide:true});process.exit(r.status??1);
