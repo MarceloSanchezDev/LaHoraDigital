@@ -1,1 +1,22 @@
-:root{--color-primary:#000;--color-primary-container:#0e1c2f;--color-secondary:#aa3000;--color-secondary-container:#d43f00;--color-background:#faf8ff;--color-surface:#fff;--color-surface-low:#f2f3ff;--color-surface-high:#e2e7ff;--color-text:#131b2e;--color-text-secondary:#44474c;--color-outline:#c5c6cd;--color-inverse:#eef0ff;--font-editorial:Newsreader,Georgia,serif;--font-body:Inter,Arial,sans-serif;--font-ui:'Plus Jakarta Sans',Arial,sans-serif;--content-width:1360px;--radius:4px;--radius-lg:12px;--shadow:0 2px 12px rgba(16,27,46,.08)}
+/* Brand colors sampled from the official La Hora de Hurlingham logo.
+   Darker red/cyan variants keep white buttons and small links readable. */
+:root{
+--brand-red:#ed3237;
+--brand-violet:#3e4095;
+--brand-cyan:#0098da;
+--color-primary:var(--brand-violet);
+--color-primary-container:#25265c;
+--color-secondary:#bd2029;
+--color-secondary-container:var(--color-secondary);
+--color-accent:var(--brand-cyan);
+--color-accent-ink:#006996;
+--color-accent-surface:#eaf7fe;
+--color-background:#fbfcff;
+--color-surface:#fff;
+--color-surface-low:#f0f2fc;
+--color-surface-high:#e3e6f8;
+--color-text:#24243b;
+--color-text-secondary:#53566d;
+--color-outline:#c8cee3;
+--color-inverse:#f5f6ff;
+--font-editorial:Newsreader,Georgia,serif;--font-body:Inter,Arial,sans-serif;--font-ui:'Plus Jakarta Sans',Arial,sans-serif;--content-width:1360px;--radius:4px;--radius-lg:12px;--shadow:0 2px 12px rgba(16,27,46,.08)}
