@@ -14,9 +14,9 @@
 /* Masthead editorial: la marca tiene su propia franja, independiente de la navegación. */
 .masthead{display:grid;place-items:center;min-height:164px;padding:10px 24px;background:var(--color-accent-surface);border-bottom:1px solid var(--color-outline)}
 .masthead .brand{display:block;width:min(760px,100%);line-height:0}
-.masthead .brand img{width:100%;height:350px;object-fit:cover;object-position:center 50%;border-radius:8px}
+.masthead .brand img{width:100%;height:144px;object-fit:cover;object-position:center 52%;border-radius:8px}
 .navbar{height:58px;justify-content:center;position:relative}
 .navbar nav{align-items:center}
 .actions{position:absolute;right:0}
 @media(max-width:1080px){.navbar{justify-content:flex-end}.navbar nav{top:100%}}
-@media(max-width:600px){.masthead{min-height:182px;padding:7px 16px}.masthead .brand img{height:170px;border-radius:6px}.navbar{height:52px}}
+@media(max-width:600px){.masthead{min-height:112px;padding:7px 16px}.masthead .brand img{height:96px;border-radius:6px}.navbar{height:52px}}
